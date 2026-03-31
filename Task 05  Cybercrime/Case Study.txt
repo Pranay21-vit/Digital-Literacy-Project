@@ -1,8 +1,0 @@
-UPI fraud is a rapidly growing cybercrime in India, where attackers trick users into transferring money or revealing sensitive banking details. This type of fraud mainly targets students and individuals who frequently use digital payment apps.
-
-A common scenario involves the victim receiving a call, message, or QR code request from a fraudster pretending to be a bank official, seller, or customer. The fraudster may ask the victim to “receive money” by scanning a QR code or approving a payment request. In reality, UPI requires approval only for sending money, not receiving it.
-
-In another case, victims receive fake links or messages claiming cashback offers or urgent account verification. When users click the link and enter their details, the fraudster gains access to their bank account.
-
-These scams are successful because they create urgency and confusion. Victims often act quickly without verifying the source. The consequences include financial loss, stress, and sometimes identity theft.
-UPI fraud cases are increasing due to the widespread use of digital payments. Awareness and careful usage are essential to avoid such scams. Users must understand how UPI works and avoid sharing sensitive information or approving unknown requests.
